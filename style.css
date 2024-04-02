@@ -1,7 +1,17 @@
-.container {
-  color: red;
+body {
+  background-color: white;
+  position: relative;
 }
 
-body {
-  background-color: red;
+h1 {
+  color: red;
+  position: absolute;
+  top: 250px;
+  left: 600px;
+  display: inline;
+}
+
+.container {
+  border: 10px solid black;
+  position: absolute;
 }
